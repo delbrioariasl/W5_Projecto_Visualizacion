@@ -1,4 +1,4 @@
-![Portada](https://github.com/delbrioariasl/W5_Projecto_Visualizacion/blob/main/imagenes/portada.jpeg){:height="300px" width="500px"}
+![Portada](https://github.com/delbrioariasl/W5_Projecto_Visualizacion/blob/main/imagenes/portada.jpeg){:height="500px" width="800px"}
 
 # Selección Española de Futbol Femenino en el Mundial de 2023
 
