@@ -1,5 +1,5 @@
-# W5_Projecto_Visualizacion -> Selección Española de Futbol Femenino en el Mundial de 2023
-![Portada](imagenes/portada.jpeg)
+# Selección Española de Futbol Femenino en el Mundial de 2023
+# ![Portada](imagenes/portada.jpeg)
 
 En este proyecto hemos tenido que realizar el analisis de unos datos para poder visualizarlos graficamente. He decidido escoger los datos del mundial femenino de futbol 2023, focalizandome solo en los partidos de España. Ya que se está disputando actualmente en el verano del 2023, solo hay ciertos datos, cuando acabe el mundial el 20 de agosto de 2023 podré hacer lo mismo pero con todos los datos.
 
