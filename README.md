@@ -22,27 +22,20 @@ Se puede encontrar el proyecto de la semana 4 en el siguiente enlace: https://gi
 ## Visualización
 Para esta parte he realizado el mismo analisis para los 5 partidos disputados para facilitar el análisis y la comparación del rendimiento en cada partido:
 1. España vs. Costa Rica (3-0)
+![Foto](imagenes/costarica.jpg)
 
+2. España vs. Zambia (5-0)
+![Foto](imagenes/zambia.jpg)
 
+3. Japon vs. España (4-0)
+![Foto](imagenes/japon.jpg)
 
+4. Suiza vs. España (1-5)
+![Foto](imagenes/suiza.jpg)
 
+5. España - Holanda (2-1)
+![Foto](imagenes/holanda.jpg)
 
-
-3. España vs. Zambia (5-0)
-
-
-
-
-
-
-4. Japon vs. España (4-0)
-
-
-
-5. Suiza vs. España (1-5)
-
-
-6. España - Holanda (2-1)
 
 Despues de esto, he realizado dos gráficos evolutivos temporalmente que muestran la evolución de todos los equipos durante el mundial en cuanto a goles marcados y a victorias, lo normal es que al acabar el mundial el equipo vencedor aparezca en la cima de las gráficas:
 
