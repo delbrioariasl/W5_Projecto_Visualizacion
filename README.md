@@ -37,7 +37,12 @@ Para esta parte he realizado el mismo analisis para los 5 partidos disputados pa
 ![Foto](imagenes/holanda.jpg)
 
 
-Despues de esto, he realizado dos gráficos evolutivos temporalmente que muestran la evolución de todos los equipos durante el mundial en cuanto a goles marcados y a victorias, lo normal es que al acabar el mundial el equipo vencedor aparezca en la cima de las gráficas:
+Despues de esto, he realizado dos gráficos evolutivos temporalmente que muestran la evolución de todos los equipos durante el mundial en cuanto a goles marcados y a victorias, lo normal es que al acabar el mundial el equipo vencedor aparezca en la cima de la segunda gráfica. 
+
+1. Evolución de goles durante el torneo: https://flourish-user-preview.com/14734455/4qXfKqSRCc8U3zqiO3J2Hrt_r4CAfHrJ5IhyKmoOOZzsaBw_7hmXpX_mMlXkYAaY/
+2. Evolución de victorias durante el torneo: 
+
+
 
 
 
