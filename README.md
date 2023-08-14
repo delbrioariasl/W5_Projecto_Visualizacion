@@ -19,4 +19,32 @@ Actualmente el equipo español se ha clasificado para pasar a las semifinales de
 Para la extracción, la transformación y la carga de datos he escogido los datos del proyecto de la semana 4: w4-project-ETL que contenian los datos del partido contra Zambia, añadiendo los respectivos datos del resto de los partidos disputados por el conjunto español.
 Se puede encontrar el proyecto de la semana 4 en el siguiente enlace: https://github.com/delbrioariasl/W4_ETL_Project
 
+## Visualización
+Para esta parte he realizado el mismo analisis para los 5 partidos disputados para facilitar el análisis y la comparación del rendimiento en cada partido:
+1. España vs. Costa Rica (3-0)
+
+
+
+
+
+
+3. España vs. Zambia (5-0)
+
+
+
+
+
+
+4. Japon vs. España (4-0)
+
+
+
+5. Suiza vs. España (1-5)
+
+
+6. España - Holanda (2-1)
+
+Despues de esto, he realizado dos gráficos evolutivos temporalmente que muestran la evolución de todos los equipos durante el mundial en cuanto a goles marcados y a victorias, lo normal es que al acabar el mundial el equipo vencedor aparezca en la cima de las gráficas:
+
+
 
